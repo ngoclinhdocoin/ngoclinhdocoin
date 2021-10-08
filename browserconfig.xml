@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<browserconfig>
+
+
+-<msapplication>
+
+
+-<tile>
+
+<square150x150logo src="https://w.ladicdn.com/s250x250/611155b3be4cf50015040f2b/mstile-150x150-20210923170140.png"/>
+
+<TileColor>#da532c</TileColor>
+
+</tile>
+
+</msapplication>
+
+</browserconfig>
